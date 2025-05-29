@@ -65,7 +65,7 @@ header('Location: index.html');
 - [x] QR code (optional vector)![Screenshot 2025-05-28 221633](https://github.com/user-attachments/assets/fe766dd7-e04b-45f5-9097-23bf75591c41)
 
 - [x] Network config screenshot (Host-only setup)
-![Screenshot 2025-05-27 232726](https://github.com/user-attachments/assets/94b3650c-6c25-4d42-9b72-42b27740920e)
+![Screenshot 2025-05-28 003421](https://github.com/user-attachments/assets/3a9353f7-c7a9-4636-a6a7-ee4d4a980da5)
 
 ## ✅ Learning Outcomes
 - Understood how phishing infrastructure works
