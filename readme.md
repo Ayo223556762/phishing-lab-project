@@ -58,10 +58,14 @@ header('Location: index.html');
 - Captured credentials stored in `/var/www/html/creds.txt`
 
 ## 📸 Screenshots
-- [x] Phishing page clone in browser
-- [x] `creds.txt` showing harvested logins
-- [x] QR code (optional vector)
+- [x] Phishing page clone in browser![Screenshot 2025-05-28 220336](https://github.com/user-attachments/assets/708f5e06-93b1-4634-af36-2e65172903d2)
+
+- [x] `creds.txt` showing harvested logins![Screenshot 2025-05-28 220336](https://github.com/user-attachments/assets/d6a6b493-0c49-488a-881d-f5b59625d488)
+
+- [x] QR code (optional vector)![Screenshot 2025-05-28 221633](https://github.com/user-attachments/assets/fe766dd7-e04b-45f5-9097-23bf75591c41)
+
 - [x] Network config screenshot (Host-only setup)
+![Screenshot 2025-05-27 232726](https://github.com/user-attachments/assets/94b3650c-6c25-4d42-9b72-42b27740920e)
 
 ## ✅ Learning Outcomes
 - Understood how phishing infrastructure works
